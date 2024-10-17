@@ -12,7 +12,7 @@ We are here to do independent work with Git and Github.
 
 ## Repository contents
 
-There are folders with data, code, and figures.
+There are folders with ‘Data’, ‘Code’, ‘Figures’, and ‘Results’.
 
 ## How to contribute
 
