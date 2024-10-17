@@ -1,6 +1,6 @@
 Git and GitHub for collaborative research: Independet work
 ================
-Your name
+Danielle Land
 
 - [Project description](#project-description)
 - [Repository contents](#repository-contents)
@@ -8,12 +8,12 @@ Your name
 
 ## Project description
 
-Add description here …
+We are here to do independent work with Git and Github.
 
 ## Repository contents
 
-Describe the contents and their organization here …
+There are folders with data, code, and figures.
 
 ## How to contribute
 
-Describe how would collaborators to contribute to this repository …
+You can contribute to this project by emailing the author directly.
